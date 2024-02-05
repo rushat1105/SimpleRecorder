@@ -1,0 +1,7 @@
+F:\work\csharp\SimpleRec\bin\Debug\Geming.SimpleRec.exe
+F:\work\csharp\SimpleRec\bin\Debug\Geming.SimpleRec.pdb
+F:\work\csharp\SimpleRec\obj\Debug\Geming.SimpleRec.MainForm.resources
+F:\work\csharp\SimpleRec\obj\Debug\Geming.SimpleRec.Properties.Resources.resources
+F:\work\csharp\SimpleRec\obj\Debug\SimpleRec.csproj.GenerateResource.Cache
+F:\work\csharp\SimpleRec\obj\Debug\Geming.SimpleRec.exe
+F:\work\csharp\SimpleRec\obj\Debug\Geming.SimpleRec.pdb

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SimpleRec">
+</Property><Property Name="Solution File" Value="F:\work\csharp\SimpleRec\SimpleRec.sln">
+</Property><Property Name="Date" Value="Monday, February 5, 2024">
+</Property><Property Name="Time" Value="18:40:36 PM">
+</Property></Properties><Event ErrorLevel="0" Project="SimpleRec" Source="SimpleRec.csproj" Description="Project file successfully backed up as F:\work\csharp\SimpleRec\Backup\SimpleRec.csproj">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="SimpleRec.csproj.user" Description="Project user file successfully backed up as F:\work\csharp\SimpleRec\Backup\SimpleRec.csproj.user">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="SndPlay.cs" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\SndPlay.cs">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="HelperMethods.cs" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\HelperMethods.cs">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="MainForm.cs" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="MainForm.Designer.cs" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="Program.cs" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="SafeNativeMethods.cs" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\SafeNativeMethods.cs">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="SndRec.cs" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\SndRec.cs">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="Properties\Settings.settings" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="Resources\PauseHS.bmp" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\Resources\PauseHS.bmp">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="Resources\PauseRecorderHS.bmp" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\Resources\PauseRecorderHS.bmp">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="Resources\PlayHS.bmp" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\Resources\PlayHS.bmp">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="Resources\RecordHS.bmp" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\Resources\RecordHS.bmp">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="Resources\SaveHS.bmp" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\Resources\SaveHS.bmp">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="Resources\StopHS.bmp" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\Resources\StopHS.bmp">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="Properties\app.manifest" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="Resources\DeleteHS.bmp" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\Resources\DeleteHS.bmp">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="record.ico" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\record.ico">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="MainForm.resx" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="Properties\Resources.resx" Description="File successfully backed up as F:\work\csharp\SimpleRec\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="SimpleRec" Source="SimpleRec.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="SimpleRec.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SimpleRec" Source="SimpleRec.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimpleRec" Source="SimpleRec.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
